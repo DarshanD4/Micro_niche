@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.env
+
+# Django migrations
+**/migrations/
+__pycache__/
+
+# Database files
+*.sqlite3
+
+# IDE and OS files
+.vscode/
+*.log
+.DS_Store
+*.pyc
